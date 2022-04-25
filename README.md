@@ -1,2 +1,2 @@
 # Rest-API-using-Flask
-I have created a Rest API using Flask and jsonify which gives you the result whether the given number is an Armstrong number or not.
+This is my first API project, I have created a Rest API using Flask and jsonify which gives you the result whether the given number is an Armstrong number or not.
